@@ -1,7 +1,7 @@
 <template>
   <div :class="$style.men_main">
     <div :class="$style.men_image">
-      <img src="@/assets/imgs/22.png" />
+      <img src="@/assets/imgs/men.png" />
     </div>
   </div>
 </template>
