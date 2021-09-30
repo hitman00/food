@@ -2,15 +2,13 @@
 
 I try to implement this concept design for web.
 
+![Image](https://github.com/hitman00/food/blob/master/assets/imgs/food.PNG)
+
 ## Link
 
 - [Demo](https://hitman00.github.io/food/)
 - Concept page: [Dribbble page](https://dribbble.com/shots/15266020-Food-Delivery-Landing-Page-Design)
 - Images: [Google](https://google.com) - [Dribbble](https://dribbble.com/)
-
-## Images
-
- ![Image](https://github.com/hitman00/food/blob/master/assets/imgs/food.PNG)
 
 ## Technologies
 
