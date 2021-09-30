@@ -1,20 +1,27 @@
-# food
+# Food Landing page
 
-## Build Setup
+I try to implement this concept design for web.
 
-```bash
-# install dependencies
-$ npm install
+## Link
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+- [Demo](https://hitman00.github.io/food/)
+- Concept page: [Dribbble page](https://dribbble.com/shots/15266020-Food-Delivery-Landing-Page-Design)
+- Images: [Google](https://google.com) - [Dribbble](https://dribbble.com/)
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+## Images
 
-# generate static project
-$ npm run generate
-```
+ ![Image](https://github.com/hitman00/food/blob/master/assets/imgs/food.PNG)
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## Technologies
+
+- NuxtJs (SSG)
+- Scss
+
+## License
+
+This repository is licensed under the [GPL-3.0](https://opensource.org/licenses/GPL-3.0).
+
+## Contact Us
+
+- E-mail: <mrezaee79@gmail.com.com><br>
+- Telegram: [@Hitman](https://telegram.me/hitman0012)
