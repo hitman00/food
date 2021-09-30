@@ -8,7 +8,7 @@
         <li>Services</li>
         <li>Blog</li>
         <li>Contact us</li>
-        <li>Login</li>
+        <li><a href="https://hitman00.github.io/food/">Github</a></li>
       </ul>
       <img src="@/assets/imgs/menoba.png" />
     </div>
@@ -46,6 +46,9 @@ export default {
       transition: all 0.3s ease;
       border-radius: 50px;
       cursor: pointer;
+      a {
+        color: #fff;
+      }
       &:hover {
         background: #f67001;
       }
